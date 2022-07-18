@@ -28,25 +28,25 @@ Open terminal/powershell/cmd
 
 ## Window :
 ```
-python python xhamster_downloader.py "url"
+python xhamster_downloader.py "url"
 
 ```
 ## Example :
 
 ```
-python python xhamster_downloader.py https://xhamster18.desi/videos/compilation-cum-in-mouth-over-50-times-huge-multiple-cum-compilation-4k-xhNXeDo
+python xhamster_downloader.py https://xhamster18.desi/videos/compilation-cum-in-mouth-over-50-times-huge-multiple-cum-compilation-4k-xhNXeDo
 
 ```
 
 ## Linux :
 ```
-python3 python xhamster_downloader.py "url"
+python3 xhamster_downloader.py "url"
 
 ```
 ## Example :
 
 ```
-python3 python xhamster_downloader.py https://xhamster18.desi/videos/compilation-cum-in-mouth-over-50-times-huge-multiple-cum-compilation-4k-xhNXeDo
+python3 xhamster_downloader.py https://xhamster18.desi/videos/compilation-cum-in-mouth-over-50-times-huge-multiple-cum-compilation-4k-xhNXeDo
 
 ```
 
